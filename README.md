@@ -1,5 +1,4 @@
 # Hotel-Haven
-https://www.google.com/imgres?q=5%20star%20hotel&imgurl=https%3A%2F%2Fwww.luxurylink.com%2Fimages%2Fsho_5b203a52%2F3391_550-630%2Fimage-3391_550.jpg&imgrefurl=https%3A%2F%2Fwww.luxurylink.com%2F5star%2Fhotel-deals%2Flouisiana&docid=zzjAUthVQfmXxM&tbnid=dOvI5rdMGEASAM&vet=12ahUKEwjM0Z2A6pqPAxWYk2oFHQjJO1kQM3oECCAQAA..i&w=630&h=315&hcb=2&ved=2ahUKEwjM0Z2A6pqPAxWYk2oFHQjJO1kQM3oECCAQAA
 
 Conducted a Supervised machine learning , and created a model on how to detect customers that are likely to cancel after bookings have been made.
 A comprehensive data analysis to understand booking patterns, identify cancellation factors, and develop strategies to improve customer retention
