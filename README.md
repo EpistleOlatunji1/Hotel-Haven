@@ -1,4 +1,7 @@
 # Hotel-Haven
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foxbusiness.com%2Flifestyle%2F10-most-expensive-hotels-america&psig=AOvVaw21RvQvAJwLns2yZLzsFHlO&ust=1755828690037000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMCY0-Ppmo8DFQAAAAAdAAAAABAE
+
 Conducted a Supervised machine learning , and created a model on how to detect customers that are likely to cancel after bookings have been made.
 A comprehensive data analysis to understand booking patterns, identify cancellation factors, and develop strategies to improve customer retention
 OBJECTIVES: Assist Hotel Haven in understanding challenges related to customer cancellations and provide data-driven insights to improve retention
